@@ -1,6 +1,26 @@
 [
   {
+    "package": "learningr",
+    "oncran": true
+  },
+  {
+    "package": "rebus",
+    "oncran": true
+  },
+  {
     "package": "rebus.base",
+    "oncran": true
+  },
+  {
+    "package": "rebus.datetimes",
+    "oncran": true
+  },
+  {
+    "package": "rebus.numbers",
+    "oncran": true
+  },
+  {
+    "package": "rebus.unicode",
     "oncran": true
   }
 ]

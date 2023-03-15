@@ -3,8 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "learningr"]
+	path = learningr
+	url = https://github.com/richierocks/learningr
+	shallow = true
+	registered = true
+[submodule "rebus"]
+	path = rebus
+	url = https://github.com/richierocks/rebus
+	shallow = true
+	registered = true
 [submodule "rebus.base"]
 	path = rebus.base
 	url = https://github.com/richierocks/rebus.base
+	shallow = true
+	registered = true
+[submodule "rebus.datetimes"]
+	path = rebus.datetimes
+	url = https://github.com/richierocks/rebus.datetimes
+	shallow = true
+	registered = true
+[submodule "rebus.numbers"]
+	path = rebus.numbers
+	url = https://github.com/richierocks/rebus.numbers
+	shallow = true
+	registered = true
+[submodule "rebus.unicode"]
+	path = rebus.unicode
+	url = https://github.com/richierocks/rebus.unicode
 	shallow = true
 	registered = true
