@@ -17,9 +17,6 @@
 [submodule "assertive.numbers"]
 	path = assertive.numbers
 	url = https://bitbucket.org/richierocks/assertive.numbers
-[submodule "assertive.reflection"]
-	path = assertive.reflection
-	url = https://bitbucket.org/richierocks/assertive.reflection
 [submodule "assertive.sets"]
 	path = assertive.sets
 	url = https://bitbucket.org/richierocks/assertive.sets
