@@ -2,24 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "assertive.base"]
-	path = assertive.base
-	url = https://bitbucket.org/richierocks/assertive.base
-[submodule "assertive.files"]
-	path = assertive.files
-	url = https://bitbucket.org/richierocks/assertive.files
-[submodule "assertive.matrices"]
-	path = assertive.matrices
-	url = https://bitbucket.org/richierocks/assertive.matrices
-[submodule "assertive.models"]
-	path = assertive.models
-	url = https://bitbucket.org/richierocks/assertive.models
-[submodule "assertive.numbers"]
-	path = assertive.numbers
-	url = https://bitbucket.org/richierocks/assertive.numbers
-[submodule "assertive.sets"]
-	path = assertive.sets
-	url = https://bitbucket.org/richierocks/assertive.sets
 [submodule "learningr"]
 	path = learningr
 	url = https://github.com/richierocks/learningr
@@ -38,9 +20,6 @@
 [submodule "rebus.unicode"]
 	path = rebus.unicode
 	url = https://github.com/richierocks/rebus.unicode
-[submodule "setter"]
-	path = setter
-	url = https://bitbucket.org/richierocks/setter
 [submodule "sig"]
 	path = sig
 	url = https://bitbucket.org/richierocks/sig
